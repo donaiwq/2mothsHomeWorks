@@ -22,7 +22,7 @@ const bigNumber = [1, 3, 2, 78, 98, 34, 56, 12, 3, 1, 45, 3, 5, 7, 78, 77, 98];
 console.log(Math.max(...bigNumber));
 
 //Using the same counter for dublicates
-const arr = [1, 3, 2, 78, 98, 34, 56, 12, 3, 1, 45, 3, 5, 7, 78, 77, 98];
+const arr = [];
 
 const count = {};
 
