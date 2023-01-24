@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.counter{
+text-align: center;
+margin-top: 20%;
+}
+span{
+  font-size: 90px;
+  background-color: black;
+  color: #fff;
+}
+button{
+  cursor: pointer;
+  width: 50px;
+  height: 35px;
+  background: linear-gradient(90.21deg, rgba(170, 54, 124, 0.5) -5.91%, rgba(74, 47, 189, 0.5) 111.58%);
+}
